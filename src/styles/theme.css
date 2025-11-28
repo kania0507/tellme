@@ -1,0 +1,23 @@
+:root {
+  --color: #00ff00;
+}
+
+.theme-green {
+  --color: #00ff00;
+}
+
+.theme-amber {
+  --color: #ffbf00;
+}
+
+.theme-blue {
+  --color: #00bfff;
+}
+
+.theme-matrix {
+  --color: #0aff0a;
+}
+
+body, #app {
+  color: var(--color);
+}
