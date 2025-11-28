@@ -20,3 +20,5 @@ Terminal potrafi:
 
 @AKC
 @kania0507
+
+![Screenshot](./console.jpg)
